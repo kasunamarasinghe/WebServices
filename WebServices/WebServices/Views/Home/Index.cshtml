@@ -32,6 +32,8 @@
 @{
 AjaxOptions addAjaxOpts = new AjaxOptions {
 // options will go here
+    OnSuccess = "getData",
+    Url = "/api/Reservation"
 };
 }
 @using (Ajax.BeginForm(addAjaxOpts)) {

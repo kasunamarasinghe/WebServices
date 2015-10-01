@@ -27,5 +27,6 @@ C:\Users\Kasun\Documents\GitHub\WebServices\WebServices\WebServices\bin\System.W
 C:\Users\Kasun\Documents\GitHub\WebServices\WebServices\WebServices\bin\System.Web.WebPages.xml
 C:\Users\Kasun\Documents\GitHub\WebServices\WebServices\WebServices\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Kasun\Documents\GitHub\WebServices\WebServices\WebServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kasun\Documents\GitHub\WebServices\WebServices\WebServices\obj\Debug\WebServices.csprojResolveAssemblyReference.cache
 C:\Users\Kasun\Documents\GitHub\WebServices\WebServices\WebServices\obj\Debug\WebServices.dll
 C:\Users\Kasun\Documents\GitHub\WebServices\WebServices\WebServices\obj\Debug\WebServices.pdb
