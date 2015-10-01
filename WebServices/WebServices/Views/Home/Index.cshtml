@@ -36,7 +36,8 @@ AjaxOptions addAjaxOpts = new AjaxOptions {
     Url = "/api/Reservation"
 };
 }
-@using (Ajax.BeginForm(addAjaxOpts)) {
+@using (Ajax.BeginForm(addAjaxOpts))
+{
 @Html.Hidden("ReservationId", 0)
 <p><label>Name:</label>@Html.Editor("ClientName")</p>
 <p><label>Location:</label>@Html.Editor("Location")</p>
